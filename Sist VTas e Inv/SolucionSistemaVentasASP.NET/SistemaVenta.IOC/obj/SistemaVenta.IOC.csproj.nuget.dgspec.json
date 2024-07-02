@@ -1,0 +1,354 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\GIT\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj": {}
+  },
+  "projects": {
+    "C:\\GIT\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GIT\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj",
+        "projectName": "SistemaVenta.BLL",
+        "projectPath": "C:\\GIT\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj",
+        "packagesPath": "C:\\Users\\mesteban\\.nuget\\packages\\",
+        "outputPath": "C:\\GIT\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mesteban\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\GIT\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj": {
+                "projectPath": "C:\\GIT\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj"
+              },
+              "C:\\GIT\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj": {
+                "projectPath": "C:\\GIT\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\8.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\GIT\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GIT\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
+        "projectName": "SistemaVenta.DAL",
+        "projectPath": "C:\\GIT\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
+        "packagesPath": "C:\\Users\\mesteban\\.nuget\\packages\\",
+        "outputPath": "C:\\GIT\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mesteban\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\GIT\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj": {
+                "projectPath": "C:\\GIT\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\8.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\GIT\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GIT\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj",
+        "projectName": "SistemaVenta.Entity",
+        "projectPath": "C:\\GIT\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj",
+        "packagesPath": "C:\\Users\\mesteban\\.nuget\\packages\\",
+        "outputPath": "C:\\GIT\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mesteban\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\8.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\GIT\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GIT\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
+        "projectName": "SistemaVenta.IOC",
+        "projectPath": "C:\\GIT\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
+        "packagesPath": "C:\\Users\\mesteban\\.nuget\\packages\\",
+        "outputPath": "C:\\GIT\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.IOC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mesteban\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\GIT\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
+                "projectPath": "C:\\GIT\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj"
+              },
+              "C:\\GIT\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj": {
+                "projectPath": "C:\\GIT\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\8.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
