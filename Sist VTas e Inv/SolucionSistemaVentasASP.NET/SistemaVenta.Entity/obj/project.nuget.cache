@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LGZGpU4CFP2dzTvlGS9gqFM7bwAio44jbU7+XWnXsFF4ZVUeVB586xqz5vLjpRsf4CpUcMaEwAO3+tzsdYgWhg==",
+  "dgSpecHash": "fgAgzuXE5XShJ0qQJCRISJbL53eiMBSXjmxzvXVIRfVY3LXIZKDKXwewYZhxw4FJaW9irFjxkNXkm+nWk18pug==",
   "success": true,
-  "projectFilePath": "C:\\GIT\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj",
+  "projectFilePath": "C:\\GIT\\maxi-proyectos\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mesteban\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\mesteban\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

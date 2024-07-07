@@ -1,34 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\GIT\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\",
+  "WorkspaceRootPath": "C:\\GIT\\maxi-proyectos\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{37F53FFA-6873-40B1-94DC-B5146E948F02}|SistemaVenta.IOC\\SistemaVenta.IOC.csproj|c:\\git\\sist vtas e inv\\solucionsistemaventasasp.net\\sistemaventa.ioc\\dependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37F53FFA-6873-40B1-94DC-B5146E948F02}|SistemaVenta.IOC\\SistemaVenta.IOC.csproj|c:\\git\\maxi-proyectos\\sist vtas e inv\\solucionsistemaventasasp.net\\sistemaventa.ioc\\dependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37F53FFA-6873-40B1-94DC-B5146E948F02}|SistemaVenta.IOC\\SistemaVenta.IOC.csproj|solutionrelative:sistemaventa.ioc\\dependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12EDF79A-CB91-4CEB-AF31-1EF63B8F314F}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\git\\sist vtas e inv\\solucionsistemaventasasp.net\\sistemaventa.bll\\implementacion\\correoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12EDF79A-CB91-4CEB-AF31-1EF63B8F314F}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\implementacion\\correoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12EDF79A-CB91-4CEB-AF31-1EF63B8F314F}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\git\\maxi-proyectos\\sist vtas e inv\\solucionsistemaventasasp.net\\sistemaventa.bll\\implementacion\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12EDF79A-CB91-4CEB-AF31-1EF63B8F314F}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\implementacion\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12EDF79A-CB91-4CEB-AF31-1EF63B8F314F}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\git\\sist vtas e inv\\solucionsistemaventasasp.net\\sistemaventa.bll\\interfaces\\icorreoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12EDF79A-CB91-4CEB-AF31-1EF63B8F314F}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\interfaces\\icorreoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12EDF79A-CB91-4CEB-AF31-1EF63B8F314F}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\git\\maxi-proyectos\\sist vtas e inv\\solucionsistemaventasasp.net\\sistemaventa.bll\\implementacion\\rolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12EDF79A-CB91-4CEB-AF31-1EF63B8F314F}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\implementacion\\rolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8575A29-917C-4285-9456-F102430C420D}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|C:\\GIT\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\sistemaventa.dal\\implementacion\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8575A29-917C-4285-9456-F102430C420D}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|solutionrelative:sistemaventa.dal\\implementacion\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12EDF79A-CB91-4CEB-AF31-1EF63B8F314F}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\git\\maxi-proyectos\\sist vtas e inv\\solucionsistemaventasasp.net\\sistemaventa.bll\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12EDF79A-CB91-4CEB-AF31-1EF63B8F314F}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8575A29-917C-4285-9456-F102430C420D}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|C:\\GIT\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\sistemaventa.dal\\interfaces\\iventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8575A29-917C-4285-9456-F102430C420D}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|solutionrelative:sistemaventa.dal\\interfaces\\iventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E003B03-F2F6-404F-BED2-4838C500C0BF}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\git\\maxi-proyectos\\sist vtas e inv\\solucionsistemaventasasp.net\\sistemaventa.aplicacionweb\\utilidades\\response\\genericresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E003B03-F2F6-404F-BED2-4838C500C0BF}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\utilidades\\response\\genericresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8575A29-917C-4285-9456-F102430C420D}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|C:\\GIT\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\sistemaventa.dal\\implementacion\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8575A29-917C-4285-9456-F102430C420D}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|solutionrelative:sistemaventa.dal\\implementacion\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E003B03-F2F6-404F-BED2-4838C500C0BF}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\git\\maxi-proyectos\\sist vtas e inv\\solucionsistemaventasasp.net\\sistemaventa.aplicacionweb\\views\\plantilla\\restablecerclave.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E003B03-F2F6-404F-BED2-4838C500C0BF}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\views\\plantilla\\restablecerclave.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8575A29-917C-4285-9456-F102430C420D}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|C:\\GIT\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\sistemaventa.dal\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8575A29-917C-4285-9456-F102430C420D}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|solutionrelative:sistemaventa.dal\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E003B03-F2F6-404F-BED2-4838C500C0BF}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\git\\maxi-proyectos\\sist vtas e inv\\solucionsistemaventasasp.net\\sistemaventa.aplicacionweb\\controllers\\plantillacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E003B03-F2F6-404F-BED2-4838C500C0BF}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\controllers\\plantillacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E003B03-F2F6-404F-BED2-4838C500C0BF}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\git\\maxi-proyectos\\sist vtas e inv\\solucionsistemaventasasp.net\\sistemaventa.aplicacionweb\\views\\plantilla\\enviarclave.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E003B03-F2F6-404F-BED2-4838C500C0BF}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\views\\plantilla\\enviarclave.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12EDF79A-CB91-4CEB-AF31-1EF63B8F314F}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\git\\maxi-proyectos\\sist vtas e inv\\solucionsistemaventasasp.net\\sistemaventa.bll\\interfaces\\irolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12EDF79A-CB91-4CEB-AF31-1EF63B8F314F}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\interfaces\\irolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,94 +46,124 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CorreoService.cs",
-              "DocumentMoniker": "C:\\GIT\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.BLL\\Implementacion\\CorreoService.cs",
-              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Implementacion\\CorreoService.cs",
-              "ToolTip": "C:\\GIT\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.BLL\\Implementacion\\CorreoService.cs",
-              "RelativeToolTip": "SistemaVenta.BLL\\Implementacion\\CorreoService.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAgwDIAAAAcAAAA",
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\GIT\\maxi-proyectos\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.BLL\\Implementacion\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Implementacion\\UsuarioService.cs",
+              "ToolTip": "C:\\GIT\\maxi-proyectos\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.BLL\\Implementacion\\UsuarioService.cs",
+              "RelativeToolTip": "SistemaVenta.BLL\\Implementacion\\UsuarioService.cs",
+              "ViewState": "AQIAAA0BAAAAAAAAAAAAABIBAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T16:03:51.019Z",
+              "WhenOpened": "2024-07-06T22:52:37.285Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ICorreoService.cs",
-              "DocumentMoniker": "C:\\GIT\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.BLL\\Interfaces\\ICorreoService.cs",
-              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Interfaces\\ICorreoService.cs",
-              "ToolTip": "C:\\GIT\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.BLL\\Interfaces\\ICorreoService.cs",
-              "RelativeToolTip": "SistemaVenta.BLL\\Interfaces\\ICorreoService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABVAAAA",
+              "DocumentIndex": 3,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\GIT\\maxi-proyectos\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.BLL\\Interfaces\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Interfaces\\IUsuarioService.cs",
+              "ToolTip": "C:\\GIT\\maxi-proyectos\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.BLL\\Interfaces\\IUsuarioService.cs",
+              "RelativeToolTip": "SistemaVenta.BLL\\Interfaces\\IUsuarioService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T16:00:25.641Z",
+              "WhenOpened": "2024-07-05T22:29:59.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenericResponse.cs",
+              "DocumentMoniker": "C:\\GIT\\maxi-proyectos\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.AplicacionWeb\\Utilidades\\Response\\GenericResponse.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Utilidades\\Response\\GenericResponse.cs",
+              "ToolTip": "C:\\GIT\\maxi-proyectos\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.AplicacionWeb\\Utilidades\\Response\\GenericResponse.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Utilidades\\Response\\GenericResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T22:21:13.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RestablecerClave.cshtml",
+              "DocumentMoniker": "C:\\GIT\\maxi-proyectos\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.AplicacionWeb\\Views\\Plantilla\\RestablecerClave.cshtml",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Views\\Plantilla\\RestablecerClave.cshtml",
+              "ToolTip": "C:\\GIT\\maxi-proyectos\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.AplicacionWeb\\Views\\Plantilla\\RestablecerClave.cshtml",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Views\\Plantilla\\RestablecerClave.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T22:11:52.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnviarClave.cshtml",
+              "DocumentMoniker": "C:\\GIT\\maxi-proyectos\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.AplicacionWeb\\Views\\Plantilla\\EnviarClave.cshtml",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Views\\Plantilla\\EnviarClave.cshtml",
+              "ToolTip": "C:\\GIT\\maxi-proyectos\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.AplicacionWeb\\Views\\Plantilla\\EnviarClave.cshtml",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Views\\Plantilla\\EnviarClave.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T22:06:04.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlantillaController.cs",
+              "DocumentMoniker": "C:\\GIT\\maxi-proyectos\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.AplicacionWeb\\Controllers\\PlantillaController.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Controllers\\PlantillaController.cs",
+              "ToolTip": "C:\\GIT\\maxi-proyectos\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.AplicacionWeb\\Controllers\\PlantillaController.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Controllers\\PlantillaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T19:47:32.886Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Dependencia.cs",
-              "DocumentMoniker": "C:\\GIT\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.IOC\\Dependencia.cs",
+              "DocumentMoniker": "C:\\GIT\\maxi-proyectos\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.IOC\\Dependencia.cs",
               "RelativeDocumentMoniker": "SistemaVenta.IOC\\Dependencia.cs",
-              "ToolTip": "C:\\GIT\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.IOC\\Dependencia.cs",
+              "ToolTip": "C:\\GIT\\maxi-proyectos\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.IOC\\Dependencia.cs",
               "RelativeToolTip": "SistemaVenta.IOC\\Dependencia.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACIAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T18:40:29.076Z",
+              "WhenOpened": "2024-07-05T19:44:56.591Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "VentaRepository.cs",
-              "DocumentMoniker": "C:\\GIT\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.DAL\\Implementacion\\VentaRepository.cs",
-              "RelativeDocumentMoniker": "SistemaVenta.DAL\\Implementacion\\VentaRepository.cs",
-              "ToolTip": "C:\\GIT\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.DAL\\Implementacion\\VentaRepository.cs",
-              "RelativeToolTip": "SistemaVenta.DAL\\Implementacion\\VentaRepository.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAAEgAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "RolService.cs",
+              "DocumentMoniker": "C:\\GIT\\maxi-proyectos\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.BLL\\Implementacion\\RolService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Implementacion\\RolService.cs",
+              "ToolTip": "C:\\GIT\\maxi-proyectos\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.BLL\\Implementacion\\RolService.cs",
+              "RelativeToolTip": "SistemaVenta.BLL\\Implementacion\\RolService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T15:33:12.783Z"
+              "WhenOpened": "2024-07-05T19:23:40.733Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IVentaRepository.cs",
-              "DocumentMoniker": "C:\\GIT\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.DAL\\Interfaces\\IVentaRepository.cs",
-              "RelativeDocumentMoniker": "SistemaVenta.DAL\\Interfaces\\IVentaRepository.cs",
-              "ToolTip": "C:\\GIT\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.DAL\\Interfaces\\IVentaRepository.cs",
-              "RelativeToolTip": "SistemaVenta.DAL\\Interfaces\\IVentaRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAZAAAA",
+              "DocumentIndex": 8,
+              "Title": "IRolService.cs",
+              "DocumentMoniker": "C:\\GIT\\maxi-proyectos\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.BLL\\Interfaces\\IRolService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Interfaces\\IRolService.cs",
+              "ToolTip": "C:\\GIT\\maxi-proyectos\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.BLL\\Interfaces\\IRolService.cs",
+              "RelativeToolTip": "SistemaVenta.BLL\\Interfaces\\IRolService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T19:59:08.825Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\GIT\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.DAL\\Implementacion\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "SistemaVenta.DAL\\Implementacion\\GenericRepository.cs",
-              "ToolTip": "C:\\GIT\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.DAL\\Implementacion\\GenericRepository.cs",
-              "RelativeToolTip": "SistemaVenta.DAL\\Implementacion\\GenericRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T19:14:58.261Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\GIT\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.DAL\\Interfaces\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "SistemaVenta.DAL\\Interfaces\\IGenericRepository.cs",
-              "ToolTip": "C:\\GIT\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.DAL\\Interfaces\\IGenericRepository.cs",
-              "RelativeToolTip": "SistemaVenta.DAL\\Interfaces\\IGenericRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T18:25:13.887Z"
+              "WhenOpened": "2024-07-05T19:19:50.829Z",
+              "EditorCaption": ""
             }
           ]
         }

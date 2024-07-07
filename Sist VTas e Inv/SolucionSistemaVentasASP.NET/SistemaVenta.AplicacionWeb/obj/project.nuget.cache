@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "dLZedpFc6Kuc6lfHu/ehr06EfVP3xU5jGihgIKC6jDLsFXawMhr56Zisk40H7hFmxzue1Og/HlZQAhjxm3t/zA==",
+  "dgSpecHash": "/RFa6/rZpooMbEdgFuTlRpQrNugaF/7zAf3kYuqhUzh59v9p89li1mPSnNbwK371nY+xVQCXIPxtGUvtY2/u6A==",
   "success": true,
-  "projectFilePath": "C:\\GIT\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj",
+  "projectFilePath": "C:\\GIT\\maxi-proyectos\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\mesteban\\.nuget\\packages\\firebaseauthentication.net\\3.7.2\\firebaseauthentication.net.3.7.2.nupkg.sha512",
+    "C:\\Users\\mesteban\\.nuget\\packages\\firebasestorage.net\\1.0.3\\firebasestorage.net.1.0.3.nupkg.sha512",
     "C:\\Users\\mesteban\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\mesteban\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\mesteban\\.nuget\\packages\\humanizer.core.af\\2.14.1\\humanizer.core.af.2.14.1.nupkg.sha512",

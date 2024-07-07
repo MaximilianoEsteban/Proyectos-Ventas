@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i3UrU9Q+GV7nK1d34uA0JrJ/+9xROo9Pk489Vb9kF53WavnEmVm/Hwhz8ab6hwZCUevWx1EIyp0LuwyvapLa1A==",
+  "dgSpecHash": "vJk0OjRn1Ri9l55rfsiTAdz0XV2mzCTKzZHeb8ahxQAJ2k1ELw5tNPXBu0EyVKaFm4OYR08ZnVGmCiFhRGB3Ww==",
   "success": true,
-  "projectFilePath": "C:\\GIT\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
+  "projectFilePath": "C:\\GIT\\maxi-proyectos\\Sist VTas e Inv\\SolucionSistemaVentasASP.NET\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mesteban\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\mesteban\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
