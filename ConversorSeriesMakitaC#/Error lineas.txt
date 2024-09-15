@@ -1,0 +1,62 @@
+private void ProcesarArchivo(string path)
+{
+    var result = new BindingList<ProductoSeries>();
+
+    using (var fileStream = File.OpenRead(path))
+    {
+        using (var streamReader = new StreamReader(fileStream))
+        {
+            string line;
+            int lineasProcesadas = 0;
+            while ((line = streamReader.ReadLine()) != null)
+            {
+                try
+                {
+                    string codproducto = line.Substring(0, 20).Trim();
+                    string serieinicial = line.Substring(20, 9);
+                    string seriefinal = line.Substring(29, 9);
+
+                    string letraserie = line.Substring(38, 1);
+                    long numserieinicial = long.Parse(serieinicial);
+                    long numseriefinal = long.Parse(seriefinal);
+                    List<long> series = new List<long>();
+
+                    for (int i = 0; i <= numseriefinal - numserieinicial; i++)
+                    {
+                        series.Add(numserieinicial + i);
+                    }
+
+                    var dataLinea = new ProductoSeries();
+                    dataLinea.CodigoProducto = codproducto.ToUpper();
+                    dataLinea.Series = new List<string>();
+
+                    foreach (long nroserie in series)
+                    {
+                        string serieformateada = nroserie.ToString().PadLeft(9, '0') + letraserie;
+                        dataLinea.Series.Add(serieformateada);
+                    }
+
+                    result.Add(dataLinea);
+                    lineasProcesadas++;
+                }
+                catch (ArgumentOutOfRangeException ex)
+                {
+                    if (ex.ParamName == "length" && ex.ActualValue.ToString() == "56")
+                    {
+                        MessageBox.Show("Error: La longitud del substring es mayor a 56 caracteres.");
+                    }
+                    else if (ex.ParamName == "length" && ex.ActualValue.ToString() < "56")
+                    {
+                        MessageBox.Show("Error: La longitud del substring es menor a 56 caracteres.");
+                    }
+                    else
+                    {
+                        MessageBox.Show("Error: " + ex.Message);
+                    }
+                }
+            }
+        }
+    }
+
+    // Rest of the code...
+}

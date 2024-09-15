@@ -1,0 +1,12 @@
+C:\ProgramasVisual\Curso Ecommerce Blazor\Ecommerce\Ecommerce.DTO\bin\Debug\net7.0\Ecommerce.DTO.deps.json
+C:\ProgramasVisual\Curso Ecommerce Blazor\Ecommerce\Ecommerce.DTO\bin\Debug\net7.0\Ecommerce.DTO.dll
+C:\ProgramasVisual\Curso Ecommerce Blazor\Ecommerce\Ecommerce.DTO\bin\Debug\net7.0\Ecommerce.DTO.pdb
+C:\ProgramasVisual\Curso Ecommerce Blazor\Ecommerce\Ecommerce.DTO\obj\Debug\net7.0\Ecommerce.DTO.csproj.AssemblyReference.cache
+C:\ProgramasVisual\Curso Ecommerce Blazor\Ecommerce\Ecommerce.DTO\obj\Debug\net7.0\Ecommerce.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgramasVisual\Curso Ecommerce Blazor\Ecommerce\Ecommerce.DTO\obj\Debug\net7.0\Ecommerce.DTO.AssemblyInfoInputs.cache
+C:\ProgramasVisual\Curso Ecommerce Blazor\Ecommerce\Ecommerce.DTO\obj\Debug\net7.0\Ecommerce.DTO.AssemblyInfo.cs
+C:\ProgramasVisual\Curso Ecommerce Blazor\Ecommerce\Ecommerce.DTO\obj\Debug\net7.0\Ecommerce.DTO.csproj.CoreCompileInputs.cache
+C:\ProgramasVisual\Curso Ecommerce Blazor\Ecommerce\Ecommerce.DTO\obj\Debug\net7.0\Ecommerce.DTO.dll
+C:\ProgramasVisual\Curso Ecommerce Blazor\Ecommerce\Ecommerce.DTO\obj\Debug\net7.0\refint\Ecommerce.DTO.dll
+C:\ProgramasVisual\Curso Ecommerce Blazor\Ecommerce\Ecommerce.DTO\obj\Debug\net7.0\Ecommerce.DTO.pdb
+C:\ProgramasVisual\Curso Ecommerce Blazor\Ecommerce\Ecommerce.DTO\obj\Debug\net7.0\ref\Ecommerce.DTO.dll

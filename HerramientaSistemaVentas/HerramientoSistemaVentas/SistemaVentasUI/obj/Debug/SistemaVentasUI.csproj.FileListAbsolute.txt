@@ -1,0 +1,319 @@
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\DBVENTA.db
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\Venta Facil CE v2.exe.config
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\Venta Facil CE v2.exe
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\Venta Facil CE v2.pdb
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\BarcodeStandard.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\BouncyCastle.Crypto.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\ClosedXML.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\DocumentFormat.OpenXml.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\EntityFramework.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\EntityFramework.SqlServer.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\ExcelNumberFormat.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\FontAwesome.Sharp.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\itextsharp.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\itextsharp.xmlworker.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\NPOI.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\NPOI.OOXML.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\NPOI.OpenXml4Net.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Buffers.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Data.SQLite.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Data.SQLite.EF6.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Data.SQLite.Linq.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Drawing.Common.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.IO.Packaging.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Memory.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Numerics.Vectors.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Text.Encodings.Web.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Text.Json.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.ValueTuple.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\BouncyCastle.Crypto.xml
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\ClosedXML.pdb
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\ClosedXML.xml
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\DocumentFormat.OpenXml.xml
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\EntityFramework.xml
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\EntityFramework.SqlServer.xml
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\ExcelNumberFormat.xml
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\itextsharp.xml
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\NPOI.xml
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\NPOI.OOXML.xml
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Buffers.xml
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Data.SQLite.xml
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Memory.xml
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Numerics.Vectors.xml
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Text.Encodings.Web.xml
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Text.Json.xml
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.ValueTuple.xml
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Form1.resources
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Formularios.frmBusqueda.resources
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Formularios.frmCancelarVenta.resources
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Formularios.frmCargaMasiva.resources
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Formularios.frmCategoria.resources
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Formularios.frmConfiguracion.resources
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Formularios.frmControlStock.resources
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Formularios.frmEnviarCorreo.resources
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Formularios.frmImprimir.resources
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Formularios.frmNuevaVenta.resources
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Formularios.frmProducto.resources
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Formularios.frmReporte.resources
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Formularios.frmUsuarios.resources
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.frmLogin.resources
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Modales.mdAcercaDe.resources
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Modales.mdBackground.resources
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Modales.mdProducto.resources
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Modales.mdVentaExitosa.resources
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Properties.Resources.resources
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.csproj.GenerateResource.cache
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.csproj.CoreCompileInputs.cache
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.csproj.CopyComplete
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\Venta Facil CE v2.exe
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\Venta Facil CE v2.pdb
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\DBVENTA.db
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\Venta Facil CE v2.exe.config
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\Venta Facil CE v2.exe
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\Venta Facil CE v2.pdb
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\BarcodeStandard.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\BouncyCastle.Crypto.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\ClosedXML.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\DocumentFormat.OpenXml.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\EntityFramework.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\EntityFramework.SqlServer.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\ExcelNumberFormat.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\FontAwesome.Sharp.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\itextsharp.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\itextsharp.xmlworker.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\NPOI.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\NPOI.OOXML.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\NPOI.OpenXml4Net.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Buffers.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Data.SQLite.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Data.SQLite.EF6.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Data.SQLite.Linq.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Drawing.Common.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.IO.Packaging.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Memory.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Numerics.Vectors.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Text.Encodings.Web.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Text.Json.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.ValueTuple.dll
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\BouncyCastle.Crypto.xml
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\ClosedXML.pdb
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\ClosedXML.xml
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\DocumentFormat.OpenXml.xml
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\EntityFramework.xml
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\EntityFramework.SqlServer.xml
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\ExcelNumberFormat.xml
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\itextsharp.xml
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\NPOI.xml
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\NPOI.OOXML.xml
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Buffers.xml
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Data.SQLite.xml
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Memory.xml
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Numerics.Vectors.xml
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Text.Encodings.Web.xml
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Text.Json.xml
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.ValueTuple.xml
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.csproj.SuggestedBindingRedirects.cache
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Form1.resources
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Formularios.frmBusqueda.resources
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Formularios.frmCancelarVenta.resources
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Formularios.frmCargaMasiva.resources
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Formularios.frmCategoria.resources
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Formularios.frmConfiguracion.resources
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Formularios.frmControlStock.resources
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Formularios.frmEnviarCorreo.resources
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Formularios.frmImprimir.resources
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Formularios.frmNuevaVenta.resources
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Formularios.frmProducto.resources
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Formularios.frmReporte.resources
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Formularios.frmUsuarios.resources
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.frmLogin.resources
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Modales.mdAcercaDe.resources
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Modales.mdBackground.resources
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Modales.mdProducto.resources
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Modales.mdVentaExitosa.resources
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Properties.Resources.resources
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.csproj.GenerateResource.cache
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.csproj.CoreCompileInputs.cache
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.csproj.CopyComplete
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\Venta Facil CE v2.exe
+E:\WorkSpaceAD\YOUTUBE\043_HERRAMIENTA SISTEMA DE VENTAS\Subir\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\Venta Facil CE v2.pdb
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\DBVENTA.db
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\Venta Facil CE v2.exe.config
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\Venta Facil CE v2.exe
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\Venta Facil CE v2.pdb
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\BarcodeStandard.dll
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\BouncyCastle.Crypto.dll
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\ClosedXML.dll
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\DocumentFormat.OpenXml.dll
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\EntityFramework.dll
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\EntityFramework.SqlServer.dll
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\ExcelNumberFormat.dll
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\FontAwesome.Sharp.dll
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\itextsharp.dll
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\itextsharp.xmlworker.dll
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\NPOI.dll
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\NPOI.OOXML.dll
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\NPOI.OpenXml4Net.dll
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Buffers.dll
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Data.SQLite.dll
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Data.SQLite.EF6.dll
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Data.SQLite.Linq.dll
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Drawing.Common.dll
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.IO.Packaging.dll
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Memory.dll
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Numerics.Vectors.dll
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Text.Encodings.Web.dll
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Text.Json.dll
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.ValueTuple.dll
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\BouncyCastle.Crypto.xml
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\ClosedXML.pdb
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\ClosedXML.xml
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\DocumentFormat.OpenXml.xml
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\EntityFramework.xml
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\EntityFramework.SqlServer.xml
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\ExcelNumberFormat.xml
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\itextsharp.xml
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\NPOI.xml
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\NPOI.OOXML.xml
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Buffers.xml
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Data.SQLite.xml
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Memory.xml
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Numerics.Vectors.xml
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Text.Encodings.Web.xml
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Text.Json.xml
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.ValueTuple.xml
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.csproj.AssemblyReference.cache
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Form1.resources
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Formularios.frmBusqueda.resources
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Formularios.frmCancelarVenta.resources
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Formularios.frmCargaMasiva.resources
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Formularios.frmCategoria.resources
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Formularios.frmConfiguracion.resources
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Formularios.frmControlStock.resources
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Formularios.frmEnviarCorreo.resources
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Formularios.frmImprimir.resources
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Formularios.frmNuevaVenta.resources
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Formularios.frmProducto.resources
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Formularios.frmReporte.resources
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Formularios.frmUsuarios.resources
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.frmLogin.resources
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Modales.mdAcercaDe.resources
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Modales.mdBackground.resources
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Modales.mdProducto.resources
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Modales.mdVentaExitosa.resources
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Properties.Resources.resources
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.csproj.GenerateResource.cache
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.csproj.CoreCompileInputs.cache
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaV.A08A6CB6.Up2Date
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\Venta Facil CE v2.exe
+E:\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\Venta Facil CE v2.pdb
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\DBVENTA.db
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\Venta Facil CE v2.exe.config
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\Venta Facil CE v2.exe
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\Venta Facil CE v2.pdb
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\BarcodeStandard.dll
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\BouncyCastle.Crypto.dll
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\ClosedXML.dll
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\DocumentFormat.OpenXml.dll
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\EntityFramework.dll
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\ExcelNumberFormat.dll
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\FontAwesome.Sharp.dll
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\itextsharp.dll
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\itextsharp.xmlworker.dll
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\NPOI.dll
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\NPOI.OOXML.dll
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\NPOI.OpenXml4Net.dll
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Buffers.dll
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Data.SQLite.dll
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Data.SQLite.EF6.dll
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Data.SQLite.Linq.dll
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Drawing.Common.dll
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.IO.Packaging.dll
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Memory.dll
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Numerics.Vectors.dll
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Text.Encodings.Web.dll
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Text.Json.dll
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.ValueTuple.dll
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\BouncyCastle.Crypto.xml
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\ClosedXML.pdb
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\ClosedXML.xml
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\DocumentFormat.OpenXml.xml
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\EntityFramework.xml
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\ExcelNumberFormat.xml
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\itextsharp.xml
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\NPOI.xml
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\NPOI.OOXML.xml
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Buffers.xml
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Data.SQLite.xml
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Memory.xml
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Numerics.Vectors.xml
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Text.Encodings.Web.xml
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Text.Json.xml
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\bin\Debug\System.ValueTuple.xml
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.csproj.AssemblyReference.cache
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Form1.resources
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Formularios.frmBusqueda.resources
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Formularios.frmCancelarVenta.resources
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Formularios.frmCargaMasiva.resources
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Formularios.frmCategoria.resources
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Formularios.frmConfiguracion.resources
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Formularios.frmControlStock.resources
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Formularios.frmEnviarCorreo.resources
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Formularios.frmImprimir.resources
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Formularios.frmNuevaVenta.resources
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Formularios.frmProducto.resources
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Formularios.frmReporte.resources
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Formularios.frmUsuarios.resources
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.frmLogin.resources
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Modales.mdAcercaDe.resources
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Modales.mdBackground.resources
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Modales.mdProducto.resources
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Modales.mdVentaExitosa.resources
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Properties.Resources.resources
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.csproj.GenerateResource.cache
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.csproj.CoreCompileInputs.cache
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\SistemaV.A08A6CB6.Up2Date
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\Venta Facil CE v2.exe
+C:\GIT\maxi-proyectos\HerramientaSistemaVentas\HerramientoSistemaVentas\SistemaVentasUI\obj\Debug\Venta Facil CE v2.pdb

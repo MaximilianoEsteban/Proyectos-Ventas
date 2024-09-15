@@ -1,6 +1,0 @@
-C:\GIT\Sist VTas e Inv\Sistemas de Ventas e Inv\CapaEntidad\bin\Debug\CapaEntidad.dll
-C:\GIT\Sist VTas e Inv\Sistemas de Ventas e Inv\CapaEntidad\bin\Debug\CapaEntidad.pdb
-C:\GIT\Sist VTas e Inv\Sistemas de Ventas e Inv\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
-C:\GIT\Sist VTas e Inv\Sistemas de Ventas e Inv\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
-C:\GIT\Sist VTas e Inv\Sistemas de Ventas e Inv\CapaEntidad\obj\Debug\CapaEntidad.dll
-C:\GIT\Sist VTas e Inv\Sistemas de Ventas e Inv\CapaEntidad\obj\Debug\CapaEntidad.pdb
