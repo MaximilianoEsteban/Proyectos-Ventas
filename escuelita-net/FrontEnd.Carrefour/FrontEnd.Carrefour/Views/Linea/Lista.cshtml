@@ -1,0 +1,69 @@
+﻿@model List<LineaModel>
+
+@{
+}
+
+<div>
+    <div class="mb-5">
+        <h1>Lista de Lineas</h1>
+    </div>  
+
+    <div>
+        <button class="btn btn-primary" onclick="irAgregar()">Agregar</button>
+
+
+        <table id="tbl-Tipo" class="table table-striped table-bordered mt-3">
+            <thead>
+                <tr>
+                    <th>Descripcion</th>
+                    <th>Opciones</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+
+                @foreach (var l in Model)
+                {
+
+                    <tr>                    
+                        <td>@l.Descripcion</td>
+                        <td>
+                            <button class="btn btn-info" onclick="editarLinea(@l.Id)">Editar</button>
+                            <button class="btn btn-danger" onclick="mostrarModalEliminar(@l.Id)">Eliminar</button>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    <div class="modal fade" id="eliminarLineaModal" role="dialog" tabindex="-1" aria-labelledby="eliminarLineaModal" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Eliminar Linea</h5>
+                </div>
+                <div class="modal-body">
+                    Esta seguro que desea eliminar la linea?
+                    <input type="hidden" id="lineaIdEliminar" />
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-danger" onclick="eliminar()">Eliminar</button>
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal" onclick="ocultarModalEliminar()">Cancelar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</div>
+@section Scripts {
+
+<script type="text/javascript">
+    function editarLinea(lineaId) {
+        window.location.href = "/Linea/Editar?lineaId=" + lineaId;
+    }
+</script>
+
+<script src="~/js/Linea/Listar.js" asp-append-version="true"></script>
+<script src="~/js/Linea/Eliminar.js" asp-append-version="true"></script>
+}

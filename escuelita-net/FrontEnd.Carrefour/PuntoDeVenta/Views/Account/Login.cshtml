@@ -1,0 +1,36 @@
+
+@model LoginViewModel
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/login.css" />
+</head>
+
+
+<div class="login-container">
+    <h1>Ingreso de usuarios</h1>
+
+    <form method="post">
+        <div>
+            @Html.ValidationSummary()
+        </div>
+       
+        <label for="Username" style="display:block; margin-bottom: 5px;">Usuario</label>       
+        @Html.TextBoxFor(x => x.Username, new { @class = "form-control" })
+        <label for="Password" style="display:block; margin-bottom: 5px;">Password</label>
+        @Html.PasswordFor(x => x.Password, new { @class = "form-control" })
+        <div id="botones" name="botones">
+            <button type="submit" class="btn btn-primary">Ingresar</button>   
+            <a class="btn btn-primary" href="EnviarMail" role="button">Olvide mi password</a>
+        </div>       
+        <div id="registro" name="registro">
+            <p>No tienes una cuenta? <a href="Register">Registrarse</a></p>
+        </div>
+    </form>   
+</div>

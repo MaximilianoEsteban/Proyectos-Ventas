@@ -1,0 +1,68 @@
+﻿@model List<FormaPagoModel>
+
+@{
+}
+
+<div>
+    <div class="mb-5">
+        <h1>Tipos de Formas de Pago Registrados</h1>
+    </div>
+
+    <div>
+        <button class="btn btn-primary" onclick="irAgregar()">Agregar</button>
+
+
+        <table id="tbl-Tipo" class="table table-striped table-bordered mt-3">
+            <thead>
+                <tr>
+                    <th>Tipos de Forma de Pagos</th>
+                    <th>Opciones</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                @foreach (var f in Model)
+                {
+
+                    <tr>
+                        <td>@f.FormaPago</td>
+                        <td>
+                            <button class="btn btn-info" onclick="editarFormaPago(@f.IdFormaPago)">Editar</button>
+                            <button class="btn btn-danger" onclick="mostrarModalEliminar(@f.IdFormaPago)">Eliminar</button>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    <div class="modal fade" id="eliminarFormaPagoModal" role="dialog" tabindex="-1" aria-labelledby="eliminarFormaPagoModal" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Eliminar Tipo de Forma de Pago</h5>
+                </div>
+                <div class="modal-body">
+                    Esta seguro que desea eliminar el registro?
+                    <input type="hidden" id="IdFormaPagoEliminar" />
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-danger" onclick="eliminar()">Eliminar</button>
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal" onclick="ocultarModalEliminar()">Cancelar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</div>
+@section Scripts {
+
+    <script type="text/javascript">
+        function editarFormaPago(IdFormaPago) {
+            window.location.href = "/FormaPago/Editar?IdFormaPago=" + IdFormaPago;
+        }
+    </script>
+
+    <script src="~/js/FormaPago/Listar.js" asp-append-version="true"></script>
+    <script src="~/js/FormaPago/Eliminar.js" asp-append-version="true"></script>
+}

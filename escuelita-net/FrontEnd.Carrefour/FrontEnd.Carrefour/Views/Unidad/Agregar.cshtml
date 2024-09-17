@@ -1,0 +1,35 @@
+﻿@model FrontEnd.Carrefour.Models.UnidadModel
+
+<div>
+    <div class="mb-5">
+        <h1>Agregar Unidad</h1>
+    </div>
+    <div>
+        <form action="/Unidad/Agregar" method="post">
+
+
+          
+            <div class="row">
+                <div class="form-group col-md-3">
+                    <label for="descripcion">Descripcion de Unidad</label>
+                    <input type="text" class="form-control" id="descripcion" name="descripcion" />
+
+                </div>
+            </div>
+
+
+
+            <div class="row">
+                <div class="col-md-2">
+                    <button type="submit" class="btn btn-primary ">Guardar</button>
+                </div>
+            </div>           
+
+        </form>
+    </div>
+
+</div>
+
+@section Scripts {
+    <script src="~/js/Unidad/Agregar.js" asp-append-version="true"></script>
+}

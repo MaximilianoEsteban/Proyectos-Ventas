@@ -1,0 +1,72 @@
+﻿@model ProductoModel
+
+@{
+}
+
+<div>
+    <div class="mb-5">
+        <h1>Editar Producto</h1>
+    </div>
+    <div>
+        <form action="/Producto/Editar" method="post">
+            <input type="hidden" id="Id" name="Id">
+            <div class="row">
+                <div class="form-group col-md-3">
+                    <label for="Nombre">Nombre</label>
+                    <input type="text" class="form-control" id="Nombre" name="Nombre" />
+                </div>
+            </div>
+            <div class="row">
+                <div class="form-group col-md-3">
+                    <label for="MarcaId">Marca</label>
+                    <select class="form-control" id="MarcaId" name="MarcaId">
+                        <option value="">--Seleccione un valor--</option>
+                    </select>
+                </div>
+            </div>
+            <div class="row">
+                <div class="form-group col-md-3">
+                    <label for="Precio">Precio</label>
+                    <input type="text" class="form-control" id="Precio" name="Precio" />
+                </div>
+            </div>
+            <div class="row">
+                <div class="form-group col-md-3">
+                    <label for="Stock">Stock</label>
+                    <input type="text" class="form-control" id="Stock" name="Stock" />
+                </div>
+            </div>
+            <div class="row">
+                <div class="form-group col-md-3">
+                    <label for="TipoId">Tipo</label>
+                    <select class="form-control" id="TipoId" name="TipoId">
+                        <option value="">--Seleccione un valor--</option>
+                     </select>
+                </div>
+            </div>
+            <div class="row">
+                <div class="form-group col-md-3">
+                    <label for="UnidadId">Unidad</label>
+                    <select class="form-control" id="UnidadId" name="UnidadId">
+                        <option value="">--Seleccione un valor--</option>
+                       
+                    </select>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-2">
+                    <button type="submit" class="btn btn-primary ">Guardar</button>
+                </div>                
+            </div>
+
+        </form>
+    </div>
+</div>
+@section Scripts {
+    <script src="~/js/Producto/Editar.js" asp-append-version="true"></script>
+    <script type="text/javascript">
+    $(document).ready(function () {
+        cargarFormulario(JSON.parse('@Json.Serialize(Model)'));
+    });
+    </script>
+}

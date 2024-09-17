@@ -1,0 +1,69 @@
+﻿@model List<UnidadModel> 
+
+@{
+}
+
+<div>
+    <div class="mb-5">
+        <h1>Unidades en Sistema</h1>
+    </div>
+
+    <div>
+        <button class="btn btn-primary" onclick="irAgregar()">Agregar</button>
+
+        <table id="tbl-unidad" class="table table-striped table-bordered mt-3">
+            <thead>
+                <tr>
+                    <th>Descripcion</th>      
+                    <th>Opciones</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+
+                @foreach (var u in Model)
+                {
+
+                    <tr>
+                        <td>@u.Descripcion</td>                     
+                        <td>
+                            <button class="btn btn-info" onclick="editarUnidad(@u.Id)">Editar</button>
+                            <button class="btn btn-danger" onclick="mostrarModalEliminar(@u.Id)">Eliminar</button>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    <div class="modal fade" id="eliminarUnidadModal" role="dialog" tabindex="-1" aria-labelledby="eliminarUnidadModal" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Eliminar Unidad</h5>
+                </div>
+                <div class="modal-body">
+                    Esta seguro que desea eliminar la unidad?
+                    <input type="hidden" id="unidadIdEliminar" />
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-danger" onclick="eliminar()">Eliminar</button>
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal" onclick="ocultarModalEliminar()">Cancelar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</div>
+
+@section Scripts {
+
+<script type="text/javascript">
+    function editarUnidad(unidadId) {
+        window.location.href = "/Unidad/Editar?unidadId=" + unidadId;
+    }
+</script>
+
+<script src="~/js/Unidad/Listar.js" asp-append-version="true"></script>
+<script src="~/js/Unidad/Eliminar.js" asp-append-version="true"></script>
+}

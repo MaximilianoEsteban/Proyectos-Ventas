@@ -1,0 +1,43 @@
+﻿@model FrontEnd.Carrefour.Models.TipoModel
+
+<div>
+    <div class="mb-5">
+        <h1>Agregar Tipo</h1>
+    </div>
+    <div>
+        <form action="/Tipo/Agregar" method="post">
+
+           
+            <div class="row">
+                <div class="form-group col-md-3">
+                    <label for="Nombre">Nombre</label>
+                    <input type="text" class="form-control" id="Nombre" name="Nombre" />
+                </div>
+            </div>
+            <div class="row">
+                <div class="form-group col-md-3">
+                    <label for="SubLineaId">Sub Linea</label>
+                    <select class="form-control" id="SubLineaId" name="SubLineaId">
+                        <option value="">Seleccione un valor</option>
+
+                    </select>
+                </div>
+            </div>
+
+
+
+            <div class="row">
+                <div class="col-md-2">
+                    <button type="submit" class="btn btn-primary ">Guardar</button>
+                </div>
+            </div>
+
+        </form>
+    </div>
+
+</div>
+@section Scripts {
+    <script src="~/js/Tipo/Agregar.js" asp-append-version="true"></script>
+}
+
+

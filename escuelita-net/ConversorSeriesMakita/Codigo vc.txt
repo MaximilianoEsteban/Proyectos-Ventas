@@ -1,0 +1,163 @@
+using OfficeOpenXml;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.IO;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using LicenseContext = OfficeOpenXml.LicenseContext;
+
+namespace ConversorSeriesMakita
+{
+    public partial class Form1 : Form
+    {
+        public class ProductoSeries
+        {
+            public string CodigoProducto { get; set; }
+            public List<string> Series { get; set; }
+        }
+
+
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void btnSeleccionarArchivo_Click_1(object sender, EventArgs e)
+        {
+            openFileDialog1.ShowDialog();
+        }
+
+        private void btnExportarExcel_Click_1(object sender, EventArgs e)
+        {
+            if (openFileDialog1.FileName != "")
+            {
+                ProcesarArchivo(openFileDialog1.FileName);
+            }
+            else
+            {
+                MessageBox.Show("Seleccione un archivo de entrada");
+            }
+        }
+
+        private void ProcesarArchivo(string path)
+        {
+            var result = new BindingList<ProductoSeries>();
+
+            using (var fileStream = File.OpenRead(path))
+            {
+                using (var streamReader = new StreamReader(fileStream))
+                {
+                    string line;
+                    int lineasProcesadas = 0;
+                    while ((line = streamReader.ReadLine()) != null)
+                    {
+                        if (line.Length != 55)
+                        {
+                            MessageBox.Show($"Error: La línea tiene {line.Length} caracteres. Se esperaba una línea con 56 caracteres.", "Error de formato", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                            return; // or throw new Exception(...) if you want to stop the execution
+                        }
+
+                        // Procesar la línea de código aquí
+                        string codproducto = line.Substring(0, 20).Trim();
+                        string serieinicial = line.Substring(20, 9);
+                        string seriefinal = line.Substring(29, 9);
+
+                        string letraserie = line.Substring(38, 1);
+                        long numserieinicial = long.Parse(serieinicial);
+                        long numseriefinal = long.Parse(seriefinal);
+                        List<long> series = new List<long>();
+
+                        for (int i = 0; i <= numseriefinal - numserieinicial; i++)
+                        {
+                            series.Add(numserieinicial + i);
+                        }
+
+                        var dataLinea = new ProductoSeries();
+                        dataLinea.CodigoProducto = codproducto.ToUpper();
+                        dataLinea.Series = new List<string>();
+
+                        foreach (long nroserie in series)
+                        {
+                            string serieformateada = nroserie.ToString().PadLeft(9, '0') + letraserie;
+                            dataLinea.Series.Add(serieformateada);
+                        }
+
+                        result.Add(dataLinea);
+                        lineasProcesadas++;
+                    }
+                }
+            }
+
+            // Configurar el DataGridView
+            dgvResultados.AutoGenerateColumns = false;
+            dgvResultados.Columns.Clear();
+            DataGridViewTextBoxColumn columnaCodigo = new DataGridViewTextBoxColumn();
+            columnaCodigo.DataPropertyName = "CodigoProducto";
+            columnaCodigo.HeaderText = "Código Producto";
+            dgvResultados.Columns.Add(columnaCodigo);
+
+            DataGridViewTextBoxColumn columnaSeries = new DataGridViewTextBoxColumn();
+            columnaSeries.HeaderText = "Serie";
+            dgvResultados.Columns.Add(columnaSeries);
+
+            foreach (var productoSeries in result)
+            {
+                foreach (var serie in productoSeries.Series)
+                {
+                    DataGridViewRow row = new DataGridViewRow();
+                    row.Cells.Add(new DataGridViewTextBoxCell { Value = productoSeries.CodigoProducto });
+                    row.Cells.Add(new DataGridViewTextBoxCell { Value = serie });
+                    dgvResultados.Rows.Add(row);
+                }
+            }            
+
+            // Exportar a Excel
+
+            SaveFileDialog saveFileDialog1 = new SaveFileDialog();
+            saveFileDialog1.Filter = "Archivos de Excel (*.xlsx)|*.xlsx";
+            saveFileDialog1.Title = "Guardar archivo de Excel";
+            saveFileDialog1.ShowDialog();
+
+            if (saveFileDialog1.FileName != "")
+            {
+                ExcelPackage.LicenseContext = LicenseContext.NonCommercial;
+                string filePath = saveFileDialog1.FileName;
+                using (var package = new ExcelPackage(new FileInfo(filePath)))
+                {
+                    var worksheet = package.Workbook.Worksheets.Add("Series");
+                    worksheet.Cells["A1"].Value = "Código Producto";
+                    worksheet.Cells["B1"].Value = "Serie";
+
+                    int row = 2;
+                    foreach (var productoSeries in result)
+                    {
+                        foreach (var serie in productoSeries.Series)
+                        {
+                            worksheet.Cells[$"A{row}"].Value = productoSeries.CodigoProducto;
+                            worksheet.Cells[$"B{row}"].Value = serie;
+                            row++;
+                        }
+                    }
+
+                    package.Save();
+                    MessageBox.Show("Archivo exportado con éxito");
+                }
+                
+            }
+            else
+            {
+                MessageBox.Show("No se ha seleccionado una ubicación para guardar el archivo");
+            }
+        }
+
+        
+    }
+}
+
+
+System.InvalidOperationException: 'A worksheet with this name already exists in the workbook : Series'

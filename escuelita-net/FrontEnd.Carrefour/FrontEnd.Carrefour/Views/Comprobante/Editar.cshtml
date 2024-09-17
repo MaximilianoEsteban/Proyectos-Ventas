@@ -1,0 +1,32 @@
+﻿@model FrontEnd.Carrefour.Models.ComprobanteModel
+
+
+<div>
+    <div class="mb-5">
+        <h1>Editar Tipos de Comprobantes</h1>
+    </div>
+    <div>
+        <form action="/Comprobante/Editar" method="post">
+            <input type="hidden" id="IdComprobante" name="IdComprobante">
+            <div class="row">                
+                <div class="form-group col-md-3">
+                    <label for="Comprobante">Descripcion del comprobante</label>
+                    <input type="text" class="form-control" id="Comprobante" name="Comprobante" />
+                </div>
+            </div>            
+            <div class="row">
+                <div class="col-md-2">
+                    <button type="submit" class="btn btn-primary ">Guardar</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+@section Scripts {
+    <script src="~/js/Comprobante/Editar.js" asp-append-version="true"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            cargarFormulario(JSON.parse('@Json.Serialize(Model)'));
+        });
+    </script>
+}

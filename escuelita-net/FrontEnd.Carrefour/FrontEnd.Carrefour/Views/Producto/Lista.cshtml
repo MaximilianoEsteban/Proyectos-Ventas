@@ -1,0 +1,80 @@
+﻿@model List<ProductoModel>
+
+@{
+}
+
+<div>
+    <div class="mb-5">
+        <h1>Productos en stock</h1>
+    </div>
+
+    <div>
+        <button class="btn btn-primary" onclick="irAgregar()">Agregar</button>
+
+        <table id="tbl-productos" class="table table-striped table-bordered mt-3">
+            <thead>
+                <tr>
+                    <th>Articulo</th>
+                    <th>Marca</th>
+                    <th>Precio</th>
+                    <th>Stock</th>
+                    <th>Tipo</th>
+                    <th>Unidad de almacenaje</th>
+                    <th>Opciones</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                @foreach (var p in Model)
+                {
+
+                    <tr>
+                        <td>@p.Nombre</td>
+                        <td>@p.NombreMarca</td>
+                        <td>@p.Precio</td>
+                        <td>@p.Stock</td>
+                        <td>@p.NombreTipo</td>
+                        <td>@p.Descripcion</td>
+                        
+                        <td>
+                            <button class="btn btn-info" onclick="editarProducto(@p.Id)">Editar</button>
+                            <button class="btn btn-danger" onclick="mostrarModalEliminar(@p.Id)">Eliminar</button>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    <div class="modal fade" id="eliminarProductoModal" role="dialog" tabindex="-1" aria-labelledby="eliminarProductoModal" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Eliminar producto</h5>
+                </div>
+                <div class="modal-body">
+                    Esta seguro que desea eliminar el producto?
+                    <input type="hidden" id="productoIdEliminar" />
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-danger" onclick="eliminar()">Eliminar</button>
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal" onclick="ocultarModalEliminar()">Cancelar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</div>
+
+@section Scripts {
+
+<script type="text/javascript">
+    function editarProducto(productoId)
+    {
+        window.location.href = "/Producto/Editar?productoId=" + productoId;
+    }
+</script>
+
+<script src="~/js/Producto/Listar.js" asp-append-version="true"></script>
+<script src="~/js/Producto/Eliminar.js" asp-append-version="true"></script>
+}

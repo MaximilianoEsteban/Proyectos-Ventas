@@ -1,0 +1,73 @@
+﻿using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Mvc;
+using SistemaVentasASPNET_MVC.Areas.Users.Models;
+using SistemaVentasASPNET_MVC.Data;
+using SistemaVentasASPNET_MVC.Models;
+using SistemaVentasASPNET_MVC.Library;
+using System.Collections.Generic;
+using System;
+using SistemaVentasASPNET_MVC.Controllers;
+using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
+
+namespace SistemaVentasASPNET_MVC.Areas.Users.Controllers
+{
+    [Area("Users")]
+    [Authorize]
+    public class UsersController : Controller
+    {
+        private SignInManager<IdentityUser> _signInManager;
+        private LUser _user;
+        private static DataPaginador<InputModelRegister> models;
+
+        public UsersController(
+            UserManager<IdentityUser> userManager,
+            SignInManager<IdentityUser> signInManager,
+            RoleManager<IdentityRole> roleManager,
+            ApplicationDbContext context)
+        {
+            _signInManager = signInManager;
+            _user = new LUser(userManager, signInManager, roleManager, context);
+        }
+
+        public IActionResult Users(int id, String filtrar, int registros)
+        {
+            if (_signInManager.IsSignedIn(User))
+            {
+                Object[] objects = new Object[3];
+                var data = _user.getTUsuariosAsync(filtrar, 0);
+                if (0 < data.Result.Count)
+                {
+                    var url = Request.Scheme + "://" + Request.Host.Value;
+                    objects = new LPaginador<InputModelRegister>().paginador(data.Result,
+                        id, registros, "Users", "Users", "Users", url);
+                }
+                else
+                {
+                    objects[0] = "No hay datos que mostrar";
+                    objects[1] = "No hay datos que mostrar";
+                    objects[2] = new List<InputModelRegister>();
+                }
+                models = new DataPaginador<InputModelRegister>
+                {
+                    List = (List<InputModelRegister>)objects[2],
+                    Pagi_info = (String)objects[0],
+                    Pagi_navegacion = (String)objects[1],
+                    Input = new InputModelRegister(),
+                };
+                return View(models);
+
+            }
+            else
+            {
+                return Redirect("/");
+            }
+        }
+
+        public async Task<IActionResult> Logout()
+        {
+            await _signInManager.SignOutAsync();
+            return RedirectToAction(nameof(HomeController.Index), "Home");
+        }
+    }
+}

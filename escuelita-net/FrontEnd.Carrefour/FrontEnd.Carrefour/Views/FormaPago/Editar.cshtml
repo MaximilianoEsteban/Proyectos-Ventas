@@ -1,0 +1,33 @@
+﻿@model FrontEnd.Carrefour.Models.FormaPagoModel
+
+
+<div>
+    <div class="mb-5">
+        <h1>Editar Tipos de Formas de Pago</h1>
+    </div>
+    <div>
+        <form action="/FormaPago/Editar" method="post">
+            <input type="hidden" id="IdFormaPago" name="IdFormaPago">
+            <div class="row">                
+                <div class="form-group col-md-3">
+                    <label for="formaPago">Descripcion de la forma de pago</label>
+                    <input type="text" class="form-control" id="FormaPago" name="FormaPago" />
+                </div>
+            </div>            
+            <div class="row">
+                <div class="col-md-2">
+                    <button type="submit" class="btn btn-primary ">Guardar</button>
+                </div>
+            </div>
+
+        </form>
+    </div>
+</div>
+@section Scripts {
+    <script src="~/js/FormaPago/Editar.js" asp-append-version="true"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            cargarFormulario(JSON.parse('@Json.Serialize(Model)'));
+        });
+    </script>
+}

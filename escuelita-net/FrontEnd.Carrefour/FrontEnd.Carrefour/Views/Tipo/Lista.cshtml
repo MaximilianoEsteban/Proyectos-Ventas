@@ -1,0 +1,70 @@
+﻿@model List<TipoModel>
+
+@{
+}
+
+<div>
+    <div class="mb-5">
+        <h1>Tipos en sistema</h1>
+    </div>  
+
+    <div>
+        <button class="btn btn-primary" onclick="irAgregar()">Agregar</button>
+
+
+        <table id="tbl-Tipo" class="table table-striped table-bordered mt-3">
+            <thead>
+                <tr>                    
+                    <th>Nombre</th>
+                    <th>Sublinea</th>
+                    <th>Opciones</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+
+                @foreach (var t in Model)
+                {
+
+                    <tr>                                          
+                        <td>@t.Nombre</td>
+                        <td>@t.NombreSublinea</td>
+                        <td>
+                            <button class="btn btn-info" onclick="editarTipo(@t.Id)">Editar</button>
+                            <button class="btn btn-danger" onclick="mostrarModalEliminar(@t.Id)">Eliminar</button>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    <div class="modal fade" id="eliminarTipoModal" role="dialog" tabindex="-1" aria-labelledby="eliminarTipoModal" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Eliminar tipo</h5>
+                </div>
+                <div class="modal-body">
+                    Esta seguro que desea eliminar el tipo?
+                    <input type="hidden" id="tipoIdEliminar" />
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-danger" onclick="eliminar()">Eliminar</button>
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal" onclick="ocultarModalEliminar()">Cancelar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</div>
+@section Scripts {
+<script type="text/javascript">
+    function editarTipo(tipoId) {
+        window.location.href = "/Tipo/Editar?tipoId=" + tipoId;
+    }
+</script>
+
+<script src="~/js/Tipo/Listar.js" asp-append-version="true"></script>
+<script src="~/js/Tipo/Eliminar.js" asp-append-version="true"></script>
+}

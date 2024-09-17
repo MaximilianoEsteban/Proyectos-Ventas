@@ -1,0 +1,33 @@
+﻿@model FrontEnd.Carrefour.Models.FormaPagoModel
+
+<div>
+    <div class="mb-5">
+        <h1>Agregar Tipos de Formas de Pago</h1>
+    </div>
+    <div>
+        <form action="/FormaPago/Agregar" method="post" novalidate="novalidate">
+
+            <div class="row">
+                <div class="form-group col-md-3">
+                    <label for="FormaPago">Tipos de Formas de Pago</label>
+                    <input type="text" class="form-control" id="FormaPago" name="FormaPago" />
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-2">
+                    <button type="submit" class="btn btn-primary ">Guardar</button>
+                </div>
+            </div>
+
+        </form>
+    </div>
+
+</div>
+@section Scripts {
+    <script src="~/js/FormaPago/Agregar.js" asp-append-version="true"></script>
+}
+
+
+
+

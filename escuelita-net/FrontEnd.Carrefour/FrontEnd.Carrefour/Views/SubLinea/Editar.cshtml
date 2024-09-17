@@ -1,0 +1,41 @@
+﻿@model FrontEnd.Carrefour.Models.SubLineaModel
+@{
+}
+<div>
+    <div class="mb-5">
+        <h1>Editar Sub Linea</h1>
+    </div>
+    <div>
+        <form action="/SubLinea/Editar" method="post">
+            <input type="hidden" id="Id" name="Id">
+            <div class="row">
+                <div class="form-group col-md-3">
+                    <label for="Nombre">Nombre</label>
+                    <input type="text" class="form-control" id="Nombre" name="Nombre" />
+                </div>
+            </div>
+            <div class="row">
+                <div class="form-group col-md-3">
+                    <label for="LineaId">Linea</label>
+                    <select class="form-control" id="LineaId" name="LineaId" >
+                        <option value="">--Seleccione un valor--</option>
+                    </select>                    
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-2">
+                    <button type="submit" class="btn btn-primary ">Guardar</button>
+                </div>
+            </div>
+
+        </form>
+    </div>
+</div>
+@section Scripts {
+    <script src="~/js/SubLinea/Editar.js" asp-append-version="true"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            cargarFormulario(JSON.parse('@Json.Serialize(Model)'));
+        });
+    </script>
+}

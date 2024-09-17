@@ -1,0 +1,70 @@
+﻿@model List<SubLineaModel>
+
+@{
+}
+
+<div>
+    <div class="mb-5">
+        <h1>SubLineas en sistema</h1>
+    </div>  
+
+    <div>
+        <button class="btn btn-primary" onclick="irAgregar()">Agregar</button>
+
+
+        <table id="tbl-SubLinea" class="table table-striped table-bordered mt-3">
+            <thead>
+                <tr>                    
+                    <th>Descripcion</th>
+                    <th>Linea</th>
+                    <th>Opciones</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+
+                @foreach (var s in Model)
+                {
+
+                    <tr>                                            
+                        <td>@s.Nombre</td>
+                        <td>@s.DescripcionLinea</td>
+                        <td>
+                            <button class="btn btn-info" onclick="editarSubLinea(@s.Id)">Editar</button>
+                            <button class="btn btn-danger" onclick="mostrarModalEliminar(@s.Id)">Eliminar</button>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    <div class="modal fade" id="eliminarSubLineaModal" role="dialog" tabindex="-1" aria-labelledby="eliminarSubLineaModal" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Eliminar tipo</h5>
+                </div>
+                <div class="modal-body">
+                    Esta seguro que desea eliminar la SubLinea?
+                    <input type="hidden" id="subLineaIdEliminar" />
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-danger" onclick="eliminar()">Eliminar</button>
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal" onclick="ocultarModalEliminar()">Cancelar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</div>
+@section Scripts {
+<script type="text/javascript">
+    function editarSubLinea(subLineaId) {
+        window.location.href = "/SubLinea/Editar?subLineaId=" + subLineaId;
+    }
+</script>
+
+<script src="~/js/SubLinea/Listar.js" asp-append-version="true"></script>
+<script src="~/js/SubLinea/Eliminar.js" asp-append-version="true"></script>
+}

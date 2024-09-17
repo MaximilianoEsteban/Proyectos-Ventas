@@ -1,0 +1,148 @@
+﻿<html>
+
+<head>
+	<script type="text/javascript" src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.5.0/knockout-min.js"></script>
+	<script type="text/javascript">
+
+		$(document).ready(function () {
+
+				let productosList = $.ajax({
+
+					type: "GET",
+					url: "https://localhost:64466/Cliente/Carrito/",
+					dataType: "json",
+					contentType: "application/json",
+					success: function (data) {
+						console.log(data);
+						$.each(data, function (i, data) {
+							viewModel.productos.push(data);
+						});
+					},
+					error: function (xhr, status, error) {
+						alert(xhr.status);
+					}
+				});
+		});
+		
+		let productosList = [];		
+		let viewModel = {				
+			productos: ko.observableArray(productosList),
+			carrito: ko.observableArray([]),
+			totalCompra: function(){
+				let sumaTotal = 0;
+				for(var i =0; i< this.carrito().length; i++){
+					let elemento = this.carrito()[i];
+					sumaTotal += elemento.subtotal();
+					console.log(sumaTotal)
+				}
+				return sumaTotal;
+			}
+		};
+
+		function signoPesos(value){
+			return "$" + value.toFixed(2);
+		}
+
+
+		function agregarAlCarrito(producto) {
+
+			 let cantidadCarrito = {
+				producto: producto,
+				cantidad: ko.observable(),
+				subtotal: function () {					
+
+					return this.producto.cantidad * this.producto.precio;
+				},
+			};						
+
+			viewModel.carrito.push(cantidadCarrito)
+		}
+
+		function quitarDelCarrito(elemento) {
+			let idx = viewModel.carrito().findIndex(x => x.id === elemento.id)
+			viewModel.carrito.splice(idx, 1)
+		}		
+
+		$(document).ready(function () {			
+			ko.applyBindings(viewModel);
+		})
+	</script>
+	
+</head>
+
+<body>
+	<div class="container text-sm-left">
+			<div class="col-md-4 float-sm-left">
+				<div><b>Productos en stock</b></div>
+				<table class="table-bordered">
+					<thead class="table-dark">
+						<tr>
+							<th rowspan="2" style="text-align:center; font-size:small">Nombre</th>
+							<th rowspan="2" style="text-align:center; font-size:small">Cantidad</th>
+							<th rowspan="2" style="text-align:center; font-size:small">Precio</th>
+							<th></th>
+						</tr>
+					</thead>
+					<tbody data-bind="foreach: { data: productos, as: 'producto' } ">
+						<tr>
+							<td style="width:50px">
+								<span style="font-size:smaller" data-bind="text: producto.nombre"></span>
+							</td>
+							<td style="align-self:auto">
+								<input data-bind='value: producto.cantidad, valueUpdate: "afterkeydown"' style="width:60px" />
+							</td>
+							<td style="align-items:center">
+								<span style="font-size:smaller" data-bind="text: signoPesos(producto.precio)" style="width:50px"></span>
+							</td>
+							<td style="align-self:auto">
+							<button type="button" class="btn btn-outline-success btn-sm" style="width:150px" data-bind="click: function() { agregarAlCarrito(producto) } ">Agregar al carrito</button>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+
+
+		<div class="col-md-4 offset-md-4 float-sm-right">
+			<div><b>Carrito</b></div>
+				<table class="table-bordered">
+					<thead class="table-secondary">
+						<tr>
+							<th rowspan="2" style="text-align:center; font-size:small">Nombre</th>
+							<th rowspan="2" style="text-align:center; font-size:small">Cantidad</th>
+							<th rowspan="2" style="text-align:center; font-size:small">Importe</th>
+							<th rowspan="2" style="text-align:center; font-size:small">Subtotal</th>
+							<th></th>
+						</tr>
+					</thead>
+					<tbody data-bind="foreach: { data: carrito, as: 'elemento' } ">
+						<tr>
+							<td>
+								<span style="font-size:smaller" data-bind="text: elemento.producto.nombre"></span>
+							</td>
+							<td>
+								<span style="font-size:smaller" data-bind="text: elemento.producto.cantidad"></span>
+							</td>
+							<td>
+								<span style="font-size:smaller" data-bind="text: signoPesos(elemento.producto.precio)"></span>
+							</td>
+							<td>
+								<span style="font-size:smaller" data-bind="text: signoPesos(elemento.subtotal())"></span>
+							</td>
+							<td>
+								<button type="button" class="btn btn-outline-danger btn-sm" style="width:150px" data-bind="click: function() { quitarDelCarrito(elemento) }">Quitar del carrito</button>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+				<div >
+					<h2>
+						Total compra: <span data-bind= "text: signoPesos(totalCompra())"> </span>
+					</h2>
+				</div>
+			</div>
+	</div>
+</body>
+
+</html>

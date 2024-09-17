@@ -1,0 +1,50 @@
+﻿/*Estilos de la vista Login*/
+
+.login-container {
+    align-items: center;
+    width: 300px;
+    background-color: #d4f6df;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #000000;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px #4CAF50;
+}
+
+h1 {
+    text-align: center;
+    padding: 30px;
+    color: darkslateblue;
+    font-size:x-large;
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input[type="text"], input[type="password"] {
+    align-items: baseline;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+div[id="Ingresar"]{
+    width: 30%;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+div[id="botonOlvideMiPassword"] {
+    width: 60%;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+div[id="registro"] {
+    padding: 5px;    
+}

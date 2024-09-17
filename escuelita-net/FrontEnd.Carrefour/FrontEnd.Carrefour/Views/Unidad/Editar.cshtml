@@ -1,0 +1,33 @@
+﻿@model UnidadModel
+@{
+}
+
+<div>
+    <div class="mb-5">
+        <h1>Editar Unidad</h1>
+    </div>
+    <div>
+        <form action="/Unidad/Editar" method="post">
+            <input type="hidden" id="Id" name="Id">
+            <div class="row">
+                <div class="form-group col-md-3">
+                    <label for="Descripcion">Descripcion</label>
+                    <input type="text" class="form-control" id="Descripcion" name="Descripcion" />
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-2">
+                    <button type="submit" class="btn btn-primary ">Guardar</button>
+                </div>               
+            </div>
+        </form>
+    </div>
+</div>
+@section Scripts {
+    <script src="~/js/Unidad/Editar.js" asp-append-version="true"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            cargarFormulario(JSON.parse('@Json.Serialize(Model)'));
+        });
+    </script>
+}

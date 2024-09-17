@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GIT\\escuelita-net\\ConversorSeriesMakita\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74283942-F16E-46A6-8017-74CABAD52964}|ConversorSeriesMakita\\ConversorSeriesMakita.csproj|c:\\git\\escuelita-net\\conversorseriesmakita\\conversorseriesmakita\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74283942-F16E-46A6-8017-74CABAD52964}|ConversorSeriesMakita\\ConversorSeriesMakita.csproj|solutionrelative:conversorseriesmakita\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74283942-F16E-46A6-8017-74CABAD52964}|ConversorSeriesMakita\\ConversorSeriesMakita.csproj|C:\\GIT\\escuelita-net\\ConversorSeriesMakita\\conversorseriesmakita\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{74283942-F16E-46A6-8017-74CABAD52964}|ConversorSeriesMakita\\ConversorSeriesMakita.csproj|solutionrelative:conversorseriesmakita\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\GIT\\escuelita-net\\ConversorSeriesMakita\\ConversorSeriesMakita\\Form1.cs",
+              "RelativeDocumentMoniker": "ConversorSeriesMakita\\Form1.cs",
+              "ToolTip": "C:\\GIT\\escuelita-net\\ConversorSeriesMakita\\ConversorSeriesMakita\\Form1.cs",
+              "RelativeToolTip": "ConversorSeriesMakita\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T19:46:00.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\GIT\\escuelita-net\\ConversorSeriesMakita\\ConversorSeriesMakita\\Form1.cs",
+              "RelativeDocumentMoniker": "ConversorSeriesMakita\\Form1.cs",
+              "ToolTip": "C:\\GIT\\escuelita-net\\ConversorSeriesMakita\\ConversorSeriesMakita\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ConversorSeriesMakita\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T19:30:52.423Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
