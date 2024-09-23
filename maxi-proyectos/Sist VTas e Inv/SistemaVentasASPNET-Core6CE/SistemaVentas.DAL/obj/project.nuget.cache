@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lxQ/me3NTS+J1vSZdYkK8mTleeRSNDykA5bp7Gabn5DhFW5TdfVSZ3F5sF9IrSAurzfUR2M5e2sMsYDBo+gwOw==",
+  "dgSpecHash": "dWzC/X6N0+A2E61dlP1QH59BMZ3w0X7VZ44QWCTbyi8DRGTfOXeW5Q/R0PXU/vV6JJMWWoybCfYhQb3wPSObnA==",
   "success": true,
-  "projectFilePath": "C:\\GIT\\Sist VTas e Inv\\SistemaVentasASPNET-Core6CE\\SistemaVentas.DAL\\SistemaVentas.DAL.csproj",
+  "projectFilePath": "C:\\GIT\\maxi-proyectos\\Sist VTas e Inv\\SistemaVentasASPNET-Core6CE\\SistemaVentas.DAL\\SistemaVentas.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mesteban\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\mesteban\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

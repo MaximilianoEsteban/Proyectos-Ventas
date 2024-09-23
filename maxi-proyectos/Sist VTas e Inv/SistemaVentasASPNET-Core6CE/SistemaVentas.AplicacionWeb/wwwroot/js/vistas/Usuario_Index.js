@@ -81,7 +81,6 @@ $(document).ready(function () {
 
 })
 
-
 function mostrarModal(modelo = MODELO_BASE) {
     $("#txtId").val(modelo.idUsuario)
     $("#txtNombre").val(modelo.nombre)
@@ -92,14 +91,12 @@ function mostrarModal(modelo = MODELO_BASE) {
     $("#txtFoto").val("")
     $("#imgUsuario").attr("src", modelo.urlFoto)
 
-
     $("#modalData").modal("show")
 }
 
 $("#btnNuevo").click(function () {
     mostrarModal()
 })
-
 
 $("#btnGuardar").click(function () {
 
@@ -171,7 +168,7 @@ $("#btnGuardar").click(function () {
                 } else {
                     swal("Los sentimos", responseJson.mensaje, "error")
                 }
-            })
+            })              
     }
 })
 

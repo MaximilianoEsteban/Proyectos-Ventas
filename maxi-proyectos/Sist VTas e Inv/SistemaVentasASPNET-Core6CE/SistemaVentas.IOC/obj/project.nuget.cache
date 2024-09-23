@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Iuq71LI+3DsvhhX6kLCDkidYu+2dKj4jlbs2bHvr1YvGMBtPBeh3bySFOlSwFhsqgqdj8Z8UxCyLEGN0jPw0vA==",
+  "dgSpecHash": "F3qdgAVKTT5qzeMF69G+5ThW7qxhvDzYB9y9G5fUTlbLmlP9GKl3d9b0BiZR3cCVZVDlQCfKg3WjPsx4/eLttw==",
   "success": true,
-  "projectFilePath": "C:\\GIT\\Sist VTas e Inv\\SistemaVentasASPNET-Core6CE\\SistemaVentas.IOC\\SistemaVentas.IOC.csproj",
+  "projectFilePath": "C:\\GIT\\maxi-proyectos\\Sist VTas e Inv\\SistemaVentasASPNET-Core6CE\\SistemaVentas.IOC\\SistemaVentas.IOC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mesteban\\.nuget\\packages\\firebaseauthentication.net\\3.5.0\\firebaseauthentication.net.3.5.0.nupkg.sha512",
     "C:\\Users\\mesteban\\.nuget\\packages\\firebasestorage.net\\1.0.0\\firebasestorage.net.1.0.0.nupkg.sha512",

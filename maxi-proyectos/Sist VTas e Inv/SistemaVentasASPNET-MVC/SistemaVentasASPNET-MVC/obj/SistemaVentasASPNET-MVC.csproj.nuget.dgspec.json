@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GIT\\Sist VTas e Inv\\SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC.csproj": {}
+    "C:\\GIT\\maxi-proyectos\\Sist VTas e Inv\\SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC.csproj": {}
   },
   "projects": {
-    "C:\\GIT\\Sist VTas e Inv\\SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC.csproj": {
+    "C:\\GIT\\maxi-proyectos\\Sist VTas e Inv\\SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GIT\\Sist VTas e Inv\\SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC.csproj",
+        "projectUniqueName": "C:\\GIT\\maxi-proyectos\\Sist VTas e Inv\\SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC.csproj",
         "projectName": "SistemaVentasASPNET-MVC",
-        "projectPath": "C:\\GIT\\Sist VTas e Inv\\SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC.csproj",
+        "projectPath": "C:\\GIT\\maxi-proyectos\\Sist VTas e Inv\\SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC.csproj",
         "packagesPath": "C:\\Users\\mesteban\\.nuget\\packages\\",
-        "outputPath": "C:\\GIT\\Sist VTas e Inv\\SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC\\obj\\",
+        "outputPath": "C:\\GIT\\maxi-proyectos\\Sist VTas e Inv\\SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

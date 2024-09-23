@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ljec0aysz1DuiNvIj1tvFqj+g/kKEABvZEQM2ouDNZystkvn+CvpunZEjEHzTBtEU7SmUVys0zA9j7ziyfRGkA==",
+  "dgSpecHash": "+9ycxzpHo2cuaQlTGg8NwCH2fIJBD13h6Trb2b+y6GcMViXUXDzV0qhS0UgESY4hUERQ82WDR7a3fXobqfAwOw==",
   "success": true,
-  "projectFilePath": "C:\\GIT\\Sist VTas e Inv\\SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC.csproj",
+  "projectFilePath": "C:\\GIT\\maxi-proyectos\\Sist VTas e Inv\\SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mesteban\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\mesteban\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.17\\microsoft.aspnetcore.cryptography.internal.5.0.17.nupkg.sha512",

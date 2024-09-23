@@ -215,6 +215,92 @@ namespace SistemaVentasASPNET_MVC.Data.Migrations
                     b.ToTable("AspNetUserTokens");
                 });
 
+            modelBuilder.Entity("SistemaVentasASPNET_MVC.Areas.Clientes.Models.TClients", b =>
+                {
+                    b.Property<int>("IdCliente")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<string>("Apellido")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool>("Credito")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("Direccion")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Email")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("Fecha")
+                        .HasColumnType("datetime2");
+
+                    b.Property<byte[]>("Image")
+                        .HasColumnType("varbinary(max)");
+
+                    b.Property<string>("NID")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Nombre")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Telefono")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("IdCliente");
+
+                    b.ToTable("TClients");
+                });
+
+            modelBuilder.Entity("SistemaVentasASPNET_MVC.Areas.Clientes.Models.TReports_clients", b =>
+                {
+                    b.Property<int>("IdReporte")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<decimal>("Change")
+                        .HasColumnType("decimal(18,2)");
+
+                    b.Property<decimal>("CurrentDebt")
+                        .HasColumnType("decimal(18,2)");
+
+                    b.Property<DateTime>("DateDebt")
+                        .HasColumnType("datetime2");
+
+                    b.Property<DateTime>("DatePayment")
+                        .HasColumnType("datetime2");
+
+                    b.Property<DateTime>("Deadline")
+                        .HasColumnType("datetime2");
+
+                    b.Property<decimal>("Debt")
+                        .HasColumnType("decimal(18,2)");
+
+                    b.Property<int>("IdClient")
+                        .HasColumnType("int");
+
+                    b.Property<decimal>("LastPayment")
+                        .HasColumnType("decimal(18,2)");
+
+                    b.Property<decimal>("Monthly")
+                        .HasColumnType("decimal(18,2)");
+
+                    b.Property<int?>("TClientsIdCliente")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Ticket")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("IdReporte");
+
+                    b.HasIndex("TClientsIdCliente");
+
+                    b.ToTable("TReports_clients");
+                });
+
             modelBuilder.Entity("SistemaVentasASPNET_MVC.Areas.Users.Models.TUsers", b =>
                 {
                     b.Property<int>("ID")
@@ -294,6 +380,20 @@ namespace SistemaVentasASPNET_MVC.Data.Migrations
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+                });
+
+            modelBuilder.Entity("SistemaVentasASPNET_MVC.Areas.Clientes.Models.TReports_clients", b =>
+                {
+                    b.HasOne("SistemaVentasASPNET_MVC.Areas.Clientes.Models.TClients", "TClients")
+                        .WithMany("TReports_clients")
+                        .HasForeignKey("TClientsIdCliente");
+
+                    b.Navigation("TClients");
+                });
+
+            modelBuilder.Entity("SistemaVentasASPNET_MVC.Areas.Clientes.Models.TClients", b =>
+                {
+                    b.Navigation("TReports_clients");
                 });
 #pragma warning restore 612, 618
         }

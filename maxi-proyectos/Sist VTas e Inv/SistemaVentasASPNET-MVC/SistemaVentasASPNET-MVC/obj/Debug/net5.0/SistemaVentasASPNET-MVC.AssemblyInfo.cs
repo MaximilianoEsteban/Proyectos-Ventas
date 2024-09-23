@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SistemaVentasASPNET-MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+168d45794c1e83ae4a657b790b05f6864ce54030")]
 [assembly: System.Reflection.AssemblyProductAttribute("SistemaVentasASPNET-MVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SistemaVentasASPNET-MVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

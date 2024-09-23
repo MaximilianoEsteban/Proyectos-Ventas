@@ -12,6 +12,12 @@ var imageUser = (evt) => {
     user.archivo(evt, "imageUser");
 }
 
+/*CODIGO DE CLIENTES*/
+var cliente = new Cliente();
+var imageCliente = (evt) => {
+    cliente.archivo(evt, "imageCliente");
+}
+
 
 $().ready(() => {
     let URLactual = window.location.pathname;

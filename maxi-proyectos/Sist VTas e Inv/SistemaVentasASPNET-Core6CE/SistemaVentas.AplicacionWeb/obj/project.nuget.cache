@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j+SiGtCtaFYA+5j6ts5Ycvn5BofYuIhp6uxJLHF7z0tHXwg7qDZM540RjkW6GIH2py8+DN9RXRBkXYdb6ZiU7Q==",
+  "dgSpecHash": "I2zkmvDJbZ+QgQFw+2Nr/76/6t3fcKPzrish23t/th1DM676TLEWgjXAJ/GsqtdeiBwfPFXXZtjzpYLq8FrPHg==",
   "success": true,
-  "projectFilePath": "C:\\GIT\\Sist VTas e Inv\\SistemaVentasASPNET-Core6CE\\SistemaVentas.AplicacionWeb\\SistemaVentas.AplicacionWeb.csproj",
+  "projectFilePath": "C:\\GIT\\maxi-proyectos\\Sist VTas e Inv\\SistemaVentasASPNET-Core6CE\\SistemaVentas.AplicacionWeb\\SistemaVentas.AplicacionWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mesteban\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\mesteban\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

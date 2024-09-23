@@ -1,0 +1,3 @@
+﻿class Cliente extends Uploadpicture {
+
+}

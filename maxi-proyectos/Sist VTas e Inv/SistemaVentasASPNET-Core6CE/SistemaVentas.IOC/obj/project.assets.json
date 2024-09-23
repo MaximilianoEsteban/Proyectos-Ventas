@@ -10077,11 +10077,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GIT\\Sist VTas e Inv\\SistemaVentasASPNET-Core6CE\\SistemaVentas.IOC\\SistemaVentas.IOC.csproj",
+      "projectUniqueName": "C:\\GIT\\maxi-proyectos\\Sist VTas e Inv\\SistemaVentasASPNET-Core6CE\\SistemaVentas.IOC\\SistemaVentas.IOC.csproj",
       "projectName": "SistemaVentas.IOC",
-      "projectPath": "C:\\GIT\\Sist VTas e Inv\\SistemaVentasASPNET-Core6CE\\SistemaVentas.IOC\\SistemaVentas.IOC.csproj",
+      "projectPath": "C:\\GIT\\maxi-proyectos\\Sist VTas e Inv\\SistemaVentasASPNET-Core6CE\\SistemaVentas.IOC\\SistemaVentas.IOC.csproj",
       "packagesPath": "C:\\Users\\mesteban\\.nuget\\packages\\",
-      "outputPath": "C:\\GIT\\Sist VTas e Inv\\SistemaVentasASPNET-Core6CE\\SistemaVentas.IOC\\obj\\",
+      "outputPath": "C:\\GIT\\maxi-proyectos\\Sist VTas e Inv\\SistemaVentasASPNET-Core6CE\\SistemaVentas.IOC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -10103,11 +10103,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\GIT\\Sist VTas e Inv\\SistemaVentasASPNET-Core6CE\\SistemaVentas.BLL\\SistemaVentas.BLL.csproj": {
-              "projectPath": "C:\\GIT\\Sist VTas e Inv\\SistemaVentasASPNET-Core6CE\\SistemaVentas.BLL\\SistemaVentas.BLL.csproj"
+            "C:\\GIT\\maxi-proyectos\\Sist VTas e Inv\\SistemaVentasASPNET-Core6CE\\SistemaVentas.BLL\\SistemaVentas.BLL.csproj": {
+              "projectPath": "C:\\GIT\\maxi-proyectos\\Sist VTas e Inv\\SistemaVentasASPNET-Core6CE\\SistemaVentas.BLL\\SistemaVentas.BLL.csproj"
             },
-            "C:\\GIT\\Sist VTas e Inv\\SistemaVentasASPNET-Core6CE\\SistemaVentas.DAL\\SistemaVentas.DAL.csproj": {
-              "projectPath": "C:\\GIT\\Sist VTas e Inv\\SistemaVentasASPNET-Core6CE\\SistemaVentas.DAL\\SistemaVentas.DAL.csproj"
+            "C:\\GIT\\maxi-proyectos\\Sist VTas e Inv\\SistemaVentasASPNET-Core6CE\\SistemaVentas.DAL\\SistemaVentas.DAL.csproj": {
+              "projectPath": "C:\\GIT\\maxi-proyectos\\Sist VTas e Inv\\SistemaVentasASPNET-Core6CE\\SistemaVentas.DAL\\SistemaVentas.DAL.csproj"
             }
           }
         }

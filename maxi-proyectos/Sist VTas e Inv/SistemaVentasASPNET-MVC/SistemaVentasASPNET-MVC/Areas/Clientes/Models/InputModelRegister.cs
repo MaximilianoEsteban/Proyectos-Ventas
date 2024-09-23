@@ -29,7 +29,7 @@ namespace SistemaVentasASPNET_MVC.Areas.Clientes.Models
         public DateTime Fecha { set; get; }
         public bool Credito { set; get; }
         public byte[] Image { get; set; }
-
+        public int IdCliente { set; get; }
         [TempData]
         public string ErrorMessage { get; set; }
     }

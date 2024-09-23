@@ -11,6 +11,9 @@
             case "UsersRegister":
                 document.getElementById('files').addEventListener('change', imageUser, false);
                 break;
+            case "ClientesRegister":
+                document.getElementById('files').addEventListener('change', imageCliente, false);
+                break;
         }
     }
 }

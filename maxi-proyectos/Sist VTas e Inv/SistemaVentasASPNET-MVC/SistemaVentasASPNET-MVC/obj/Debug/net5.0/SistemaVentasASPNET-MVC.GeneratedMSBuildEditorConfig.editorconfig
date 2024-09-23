@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SistemaVentasASPNET_MVC
-build_property.ProjectDir = C:\GIT\Sist VTas e Inv\SistemaVentasASPNET-MVC\SistemaVentasASPNET-MVC\
+build_property.ProjectDir = C:\GIT\maxi-proyectos\Sist VTas e Inv\SistemaVentasASPNET-MVC\SistemaVentasASPNET-MVC\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,50 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\GIT\\Sist VTas e Inv\\SistemaVentasASPNET-MVC\\",
+  "WorkspaceRootPath": "C:\\GIT\\maxi-proyectos\\Sist VTas e Inv\\SistemaVentasASPNET-MVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE862511-5D69-444B-B552-7465003B8777}|SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC.csproj|c:\\git\\sist vtas e inv\\sistemaventasaspnet-mvc\\sistemaventasaspnet-mvc\\areas\\clientes\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BE862511-5D69-444B-B552-7465003B8777}|SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC.csproj|solutionrelative:sistemaventasaspnet-mvc\\areas\\clientes\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BE862511-5D69-444B-B552-7465003B8777}|SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC.csproj|c:\\git\\maxi-proyectos\\sist vtas e inv\\sistemaventasaspnet-mvc\\sistemaventasaspnet-mvc\\areas\\clientes\\pages\\account\\reportes.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE862511-5D69-444B-B552-7465003B8777}|SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC.csproj|solutionrelative:sistemaventasaspnet-mvc\\areas\\clientes\\pages\\account\\reportes.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE862511-5D69-444B-B552-7465003B8777}|SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC.csproj|C:\\GIT\\Sist VTas e Inv\\SistemaVentasASPNET-MVC\\sistemaventasaspnet-mvc\\areas\\users\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE862511-5D69-444B-B552-7465003B8777}|SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC.csproj|solutionrelative:sistemaventasaspnet-mvc\\areas\\users\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE862511-5D69-444B-B552-7465003B8777}|SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC.csproj|c:\\git\\maxi-proyectos\\sist vtas e inv\\sistemaventasaspnet-mvc\\sistemaventasaspnet-mvc\\areas\\clientes\\pages\\account\\reportes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE862511-5D69-444B-B552-7465003B8777}|SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC.csproj|solutionrelative:sistemaventasaspnet-mvc\\areas\\clientes\\pages\\account\\reportes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE862511-5D69-444B-B552-7465003B8777}|SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC.csproj|C:\\GIT\\Sist VTas e Inv\\SistemaVentasASPNET-MVC\\sistemaventasaspnet-mvc\\areas\\clientes\\models\\inputmodelregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE862511-5D69-444B-B552-7465003B8777}|SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC.csproj|solutionrelative:sistemaventasaspnet-mvc\\areas\\clientes\\models\\inputmodelregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE862511-5D69-444B-B552-7465003B8777}|SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC.csproj|C:\\GIT\\Sist VTas e Inv\\SistemaVentasASPNET-MVC\\sistemaventasaspnet-mvc\\areas\\clientes\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE862511-5D69-444B-B552-7465003B8777}|SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC.csproj|solutionrelative:sistemaventasaspnet-mvc\\areas\\clientes\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE862511-5D69-444B-B552-7465003B8777}|SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC.csproj|C:\\GIT\\Sist VTas e Inv\\SistemaVentasASPNET-MVC\\sistemaventasaspnet-mvc\\areas\\clientes\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE862511-5D69-444B-B552-7465003B8777}|SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC.csproj|solutionrelative:sistemaventasaspnet-mvc\\areas\\clientes\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE862511-5D69-444B-B552-7465003B8777}|SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC.csproj|C:\\GIT\\Sist VTas e Inv\\SistemaVentasASPNET-MVC\\sistemaventasaspnet-mvc\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE862511-5D69-444B-B552-7465003B8777}|SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC.csproj|solutionrelative:sistemaventasaspnet-mvc\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE862511-5D69-444B-B552-7465003B8777}|SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC.csproj|C:\\GIT\\Sist VTas e Inv\\SistemaVentasASPNET-MVC\\sistemaventasaspnet-mvc\\areas\\clientes\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BE862511-5D69-444B-B552-7465003B8777}|SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC.csproj|solutionrelative:sistemaventasaspnet-mvc\\areas\\clientes\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE862511-5D69-444B-B552-7465003B8777}|SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC.csproj|C:\\GIT\\Sist VTas e Inv\\SistemaVentasASPNET-MVC\\sistemaventasaspnet-mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BE862511-5D69-444B-B552-7465003B8777}|SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC.csproj|solutionrelative:sistemaventasaspnet-mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE862511-5D69-444B-B552-7465003B8777}|SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC.csproj|C:\\GIT\\Sist VTas e Inv\\SistemaVentasASPNET-MVC\\sistemaventasaspnet-mvc\\areas\\clientes\\views\\clientes\\clientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BE862511-5D69-444B-B552-7465003B8777}|SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC.csproj|solutionrelative:sistemaventasaspnet-mvc\\areas\\clientes\\views\\clientes\\clientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE862511-5D69-444B-B552-7465003B8777}|SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC.csproj|C:\\GIT\\Sist VTas e Inv\\SistemaVentasASPNET-MVC\\sistemaventasaspnet-mvc\\areas\\clientes\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BE862511-5D69-444B-B552-7465003B8777}|SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC.csproj|solutionrelative:sistemaventasaspnet-mvc\\areas\\clientes\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE862511-5D69-444B-B552-7465003B8777}|SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC.csproj|C:\\GIT\\Sist VTas e Inv\\SistemaVentasASPNET-MVC\\sistemaventasaspnet-mvc\\areas\\users\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BE862511-5D69-444B-B552-7465003B8777}|SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC.csproj|solutionrelative:sistemaventasaspnet-mvc\\areas\\users\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BE862511-5D69-444B-B552-7465003B8777}|SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC.csproj|c:\\git\\maxi-proyectos\\sist vtas e inv\\sistemaventasaspnet-mvc\\sistemaventasaspnet-mvc\\areas\\clientes\\pages\\account\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE862511-5D69-444B-B552-7465003B8777}|SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC.csproj|solutionrelative:sistemaventasaspnet-mvc\\areas\\clientes\\pages\\account\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -63,135 +31,41 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\GIT\\Sist VTas e Inv\\SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC\\Areas\\Clientes\\Pages\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "SistemaVentasASPNET-MVC\\Areas\\Clientes\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "C:\\GIT\\Sist VTas e Inv\\SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC\\Areas\\Clientes\\Pages\\Account\\Register.cshtml",
-              "RelativeToolTip": "SistemaVentasASPNET-MVC\\Areas\\Clientes\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACQAAABBAAAA",
+              "Title": "Reportes.cshtml.cs",
+              "DocumentMoniker": "C:\\GIT\\maxi-proyectos\\Sist VTas e Inv\\SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC\\Areas\\Clientes\\Pages\\Account\\Reportes.cshtml.cs",
+              "RelativeDocumentMoniker": "SistemaVentasASPNET-MVC\\Areas\\Clientes\\Pages\\Account\\Reportes.cshtml.cs",
+              "ToolTip": "C:\\GIT\\maxi-proyectos\\Sist VTas e Inv\\SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC\\Areas\\Clientes\\Pages\\Account\\Reportes.cshtml.cs",
+              "RelativeToolTip": "SistemaVentasASPNET-MVC\\Areas\\Clientes\\Pages\\Account\\Reportes.cshtml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T00:09:20.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reportes.cshtml",
+              "DocumentMoniker": "C:\\GIT\\maxi-proyectos\\Sist VTas e Inv\\SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC\\Areas\\Clientes\\Pages\\Account\\Reportes.cshtml",
+              "RelativeDocumentMoniker": "SistemaVentasASPNET-MVC\\Areas\\Clientes\\Pages\\Account\\Reportes.cshtml",
+              "ToolTip": "C:\\GIT\\maxi-proyectos\\Sist VTas e Inv\\SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC\\Areas\\Clientes\\Pages\\Account\\Reportes.cshtml",
+              "RelativeToolTip": "SistemaVentasASPNET-MVC\\Areas\\Clientes\\Pages\\Account\\Reportes.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-19T23:14:01.109Z",
+              "WhenOpened": "2024-09-23T00:07:47.827Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "InputModelRegister.cs",
-              "DocumentMoniker": "C:\\GIT\\Sist VTas e Inv\\SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC\\Areas\\Clientes\\Models\\InputModelRegister.cs",
-              "RelativeDocumentMoniker": "SistemaVentasASPNET-MVC\\Areas\\Clientes\\Models\\InputModelRegister.cs",
-              "ToolTip": "C:\\GIT\\Sist VTas e Inv\\SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC\\Areas\\Clientes\\Models\\InputModelRegister.cs",
-              "RelativeToolTip": "SistemaVentasASPNET-MVC\\Areas\\Clientes\\Models\\InputModelRegister.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAsAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T22:43:18.502Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Clientes.cshtml",
-              "DocumentMoniker": "C:\\GIT\\Sist VTas e Inv\\SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC\\Areas\\Clientes\\Views\\Clientes\\Clientes.cshtml",
-              "RelativeDocumentMoniker": "SistemaVentasASPNET-MVC\\Areas\\Clientes\\Views\\Clientes\\Clientes.cshtml",
-              "ToolTip": "C:\\GIT\\Sist VTas e Inv\\SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC\\Areas\\Clientes\\Views\\Clientes\\Clientes.cshtml",
-              "RelativeToolTip": "SistemaVentasASPNET-MVC\\Areas\\Clientes\\Views\\Clientes\\Clientes.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Detalle.cshtml",
+              "DocumentMoniker": "C:\\GIT\\maxi-proyectos\\Sist VTas e Inv\\SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC\\Areas\\Clientes\\Pages\\Account\\Detalle.cshtml",
+              "RelativeDocumentMoniker": "SistemaVentasASPNET-MVC\\Areas\\Clientes\\Pages\\Account\\Detalle.cshtml",
+              "ToolTip": "C:\\GIT\\maxi-proyectos\\Sist VTas e Inv\\SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC\\Areas\\Clientes\\Pages\\Account\\Detalle.cshtml",
+              "RelativeToolTip": "SistemaVentasASPNET-MVC\\Areas\\Clientes\\Pages\\Account\\Detalle.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACIAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-19T22:36:42.844Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\GIT\\Sist VTas e Inv\\SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC\\Areas\\Clientes\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "SistemaVentasASPNET-MVC\\Areas\\Clientes\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\GIT\\Sist VTas e Inv\\SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC\\Areas\\Clientes\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "SistemaVentasASPNET-MVC\\Areas\\Clientes\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-19T22:31:36.116Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\GIT\\Sist VTas e Inv\\SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "SistemaVentasASPNET-MVC\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\GIT\\Sist VTas e Inv\\SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "SistemaVentasASPNET-MVC\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAACQAAACGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-19T22:25:41.942Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "C:\\GIT\\Sist VTas e Inv\\SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC\\Areas\\Clientes\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeDocumentMoniker": "SistemaVentasASPNET-MVC\\Areas\\Clientes\\Pages\\Account\\Register.cshtml.cs",
-              "ToolTip": "C:\\GIT\\Sist VTas e Inv\\SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC\\Areas\\Clientes\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeToolTip": "SistemaVentasASPNET-MVC\\Areas\\Clientes\\Pages\\Account\\Register.cshtml.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T22:19:39.412Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\GIT\\Sist VTas e Inv\\SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC\\Areas\\Clientes\\Pages\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "SistemaVentasASPNET-MVC\\Areas\\Clientes\\Pages\\_ViewImports.cshtml",
-              "ToolTip": "C:\\GIT\\Sist VTas e Inv\\SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC\\Areas\\Clientes\\Pages\\_ViewImports.cshtml",
-              "RelativeToolTip": "SistemaVentasASPNET-MVC\\Areas\\Clientes\\Pages\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-19T22:13:19.109Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ClientesController.cs",
-              "DocumentMoniker": "C:\\GIT\\Sist VTas e Inv\\SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC\\Areas\\Clientes\\Controllers\\ClientesController.cs",
-              "RelativeDocumentMoniker": "SistemaVentasASPNET-MVC\\Areas\\Clientes\\Controllers\\ClientesController.cs",
-              "ToolTip": "C:\\GIT\\Sist VTas e Inv\\SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC\\Areas\\Clientes\\Controllers\\ClientesController.cs",
-              "RelativeToolTip": "SistemaVentasASPNET-MVC\\Areas\\Clientes\\Controllers\\ClientesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T22:11:47.217Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\GIT\\Sist VTas e Inv\\SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC\\Startup.cs",
-              "RelativeDocumentMoniker": "SistemaVentasASPNET-MVC\\Startup.cs",
-              "ToolTip": "C:\\GIT\\Sist VTas e Inv\\SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC\\Startup.cs",
-              "RelativeToolTip": "SistemaVentasASPNET-MVC\\Startup.cs",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAAAEEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T22:10:56.896Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "C:\\GIT\\Sist VTas e Inv\\SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC\\Areas\\Users\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeDocumentMoniker": "SistemaVentasASPNET-MVC\\Areas\\Users\\Pages\\Account\\Register.cshtml.cs",
-              "ToolTip": "C:\\GIT\\Sist VTas e Inv\\SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC\\Areas\\Users\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeToolTip": "SistemaVentasASPNET-MVC\\Areas\\Users\\Pages\\Account\\Register.cshtml.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAADMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T23:27:04.386Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\GIT\\Sist VTas e Inv\\SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC\\Areas\\Users\\Pages\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "SistemaVentasASPNET-MVC\\Areas\\Users\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "C:\\GIT\\Sist VTas e Inv\\SistemaVentasASPNET-MVC\\SistemaVentasASPNET-MVC\\Areas\\Users\\Pages\\Account\\Register.cshtml",
-              "RelativeToolTip": "SistemaVentasASPNET-MVC\\Areas\\Users\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFIAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-01T19:34:47.352Z"
+              "WhenOpened": "2024-09-23T00:03:50.847Z",
+              "EditorCaption": ""
             }
           ]
         }
